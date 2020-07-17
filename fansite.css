@@ -1,4 +1,11 @@
-#welcome{
-  font-size: 48px;
-  color: rgb(88, 196, 234);
+html {
+  body {background-color: coral;}
+}
+body {
+  font-family: 'Anton', sans-serif;
+}
+
+.header {
+  text-decoration: none;
+  color: coral;
 }
