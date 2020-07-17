@@ -1,11 +1,9 @@
-html {
-  body {background-color: coral;}
-}
 body {
+  background-image: url("https://pmcvariety.files.wordpress.com/2017/10/rexfeatures_5867685c.jpg");
   font-family: 'Anton', sans-serif;
 }
 
-.header {
+.header-content a {
   text-decoration: none;
   color: coral;
 }
